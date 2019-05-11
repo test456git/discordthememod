@@ -249,6 +249,19 @@ button.button-38aScr.da-button.lookFilled-1Gx00P.colorBrand-3pXr91.sizeSmall-2cS
   pointer-events: none;
   border-color: transparent;
 }
+
+.small-5Os1Bb.status-2s6iDp {
+    border-radius: 50%;
+  background-color: transparent;
+  background-clip: padding-box;
+  bottom: -1px;
+  right: -1px;
+  height: var(--statussize) !important; 
+  width: var(--statussize) !important;
+  pointer-events: none;
+  border-color: transparent;
+}
+
 .maskProfile-1ObLFT,.mask-3OgeRz {
   -webkit-mask: none;
   mask: none;
