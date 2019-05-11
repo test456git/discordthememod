@@ -244,8 +244,8 @@ button.button-38aScr.da-button.lookFilled-1Gx00P.colorBrand-3pXr91.sizeSmall-2cS
   background-clip: padding-box;
   bottom: -1px;
   right: -1px;
-  height: var (--statussize) !important; 
-  width: var (--statussize) !important;
+  height: var(--statussize) !important; 
+  width: var(--statussize) !important;
   pointer-events: none;
   border-color: transparent;
 }
